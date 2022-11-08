@@ -1,4 +1,4 @@
-package FactoryPattern;
+package FactoryPattern.ShapeFactory;
 
 public class FactoryDemo {
     private static final ShapeFactory shapeFactory = new ShapeFactory();
